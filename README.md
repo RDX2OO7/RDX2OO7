@@ -16,6 +16,7 @@ Design/  Code/  Debug/  Eat/  Sleep/
                                     └───────────────────────────────────────────────────┘
 ```
 
+
 ## 🛠 Tools & Technologies
 
 ### Languages
@@ -55,6 +56,9 @@ Design/  Code/  Debug/  Eat/  Sleep/
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RDX2OO7&layout=compact&theme=tokyonight&hide_border=true)
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ## 🔗 Contact_me 
 
