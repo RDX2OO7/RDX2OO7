@@ -48,10 +48,6 @@ Design/  Code/  Debug/  Eat/  Sleep/
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RDX2OO7&theme=react-dark)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDX2OO7&show_icons=true&theme=tokyonight&hide_border=true)
-
 ## 🧠 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RDX2OO7&layout=compact&theme=tokyonight&hide_border=true)
@@ -80,9 +76,10 @@ Design/  Code/  Debug/  Eat/  Sleep/
   </a>
 </p>
 
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%9A%80;Build.+Break.+Learn.+Repeat.;See+you+in+the+next+commit+%F0%9F%94%A5" />
+</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer" />
 
 
 
