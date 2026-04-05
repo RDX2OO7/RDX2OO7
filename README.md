@@ -60,7 +60,7 @@ Design/  Code/  Debug/  Eat/  Sleep/
 ## 🔗 Contact_me 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/www.linkedin.com/in/ritesh-deshmukh-3aa803370)/" target="_blank">
+  <a href="www.linkedin.com/in/ritesh-deshmukh-3aa803370" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 
